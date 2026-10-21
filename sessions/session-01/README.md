@@ -1,6 +1,6 @@
 # Session 1: Heat in, work out, heat rejected
 
-[Session 1 — తెలుగు](sessions/session-01/README.te.md)
+[Session 1 — తెలుగు](README.te.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openengine*
 
